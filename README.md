@@ -45,3 +45,22 @@ The measured voltage is displayed on the LCD screen.
 - D5 → D4
 - D6 → D3
 - D7 → D2
+  
+## Output
+
+- Voltage Meter
+- V = 12.45 V
+  
+## Applications
+
+- Battery voltage testing
+- Power supply monitoring
+- Electronics laboratory experiments
+- Industrial voltage measurement
+- 
+## Advantages
+
+- Accurate measurement
+- Low cost
+- Easy to build
+- Portable device
