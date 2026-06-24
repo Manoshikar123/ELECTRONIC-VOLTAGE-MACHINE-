@@ -1,0 +1,9 @@
+Block Diagram
+
+DC Voltage Source
+        ↓
+ Voltage Sensor
+        ↓
+   Arduino Uno
+        ↓
+   LCD Display
