@@ -1,0 +1,23 @@
+#include <LiquidCrystal.h>
+
+LiquidCrystal lcd(12,11,5,4,3,2);
+
+int sensorPin = A0;
+float voltage = 0;
+
+void setup() {
+  lcd.begin(16,2);
+  lcd.print("Voltage Meter");
+}
+
+void loop() {
+  int value = analogRead(sensorPin);
+  voltage = (value * 5.0 / 1023.0) * 5;
+
+  lcd.setCursor(0,1);
+  lcd.print("V=");
+  lcd.print(voltage);
+  lcd.print(" V ");
+  
+  delay(500);
+}
