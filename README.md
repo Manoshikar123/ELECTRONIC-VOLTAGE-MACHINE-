@@ -5,7 +5,7 @@
 - ** ID: CITS2557
 - ** Domain: EMBEDED SYSTEMS
 - ** Internship Duration: June 12, 2026 – July 10, 2026
-- 
+  
 ## Project Title
 
 Electronic Voltage Measurement Machine Using Arduino
@@ -57,7 +57,7 @@ The measured voltage is displayed on the LCD screen.
 - Power supply monitoring
 - Electronics laboratory experiments
 - Industrial voltage measurement
-- 
+  
 ## Advantages
 
 - Accurate measurement
